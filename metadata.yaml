@@ -1,5 +1,8 @@
 _repo: Annals-of-the-persecution-in-Scotland-b-From-the-Restoration-to-the-Revolution_72520
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72520-h/images/cover.jpg
 creator:
   author:
     agent_name: Aikman, James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56653'
     url: http://www.gutenberg.org/2009/agents/56653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72520#Annals-of-the-persecution-in-Scotland-b-From-the-Restoration-to-the-Revolution
 gutenberg_issued: '2023-12-27'
 gutenberg_type: Text
 identifiers:
